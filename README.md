@@ -11,7 +11,7 @@
 3. 金秀贤
 4. 杨洋
 
-我学过的编程语言`c``java``html``css`。我写一段给你瞧瞧吧。
+我学过的编程语言`c` `java` `html` `css`。我写一段给你瞧瞧吧。
 ```java
 int i;
 int sum=0;
